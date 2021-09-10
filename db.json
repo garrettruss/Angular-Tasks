@@ -4,13 +4,13 @@
       "id": 1,
       "text": "Dinner at the Wharf",
       "day": "September 15th at 6:00pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 2,
       "text": "Infy Meeting",
       "day": "September 10 at 11am",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 3,
