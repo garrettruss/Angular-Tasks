@@ -4,7 +4,7 @@
       "id": 1,
       "text": "Dinner at the Wharf",
       "day": "September 15th at 6:00pm",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "id": 3,
       "text": "Tuxedo Shopping",
       "day": "October 7 at 12:30pm",
-      "reminder": false
+      "reminder": true
     }
   ]
 }
